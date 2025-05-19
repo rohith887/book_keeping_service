@@ -1,0 +1,11 @@
+{
+	"messages": {
+		"userRegistered": "User registered successfully.",
+		"loginSuccess": "Login successful.",
+		"unauthorized": "Unauthorized access."
+	},
+	"book": {
+		"borrowed_successfully": "book.borrowed_successfully",
+		"return_successful": "book.return_successful"
+	}
+}

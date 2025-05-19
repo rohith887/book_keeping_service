@@ -1,0 +1,7 @@
+{
+  "messages": {
+    "userRegistered": "User registered successfully.",
+    "loginSuccess": "Login successful.",
+    "unauthorized": "Unauthorized access."
+  }
+}
