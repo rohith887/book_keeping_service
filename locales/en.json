@@ -1,11 +1,14 @@
 {
-	"messages": {
-		"userRegistered": "User registered successfully.",
-		"loginSuccess": "Login successful.",
-		"unauthorized": "Unauthorized access."
-	},
-	"book": {
-		"borrowed_successfully": "book.borrowed_successfully",
-		"return_successful": "book.return_successful"
-	}
+  "messages": {
+    "userRegistered": "User registered successfully.",
+    "loginSuccess": "Login successful.",
+    "unauthorized": "Unauthorized access."
+  },
+  "book": {
+    "borrowed_successfully": "Book borrowed successfully.",
+    "return_successful": "Book returned successfully.",
+    "not_found": "Book not found.",
+    "already_borrowed": "This book is already borrowed.",
+    "not_borrowed": "This book is not currently borrowed."
+  }
 }

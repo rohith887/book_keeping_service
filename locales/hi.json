@@ -1,7 +1,14 @@
 {
   "messages": {
-    "userRegistered": "User registered successfully.",
-    "loginSuccess": "Login successful.",
-    "unauthorized": "Unauthorized access."
+    "userRegistered": "उपयोगकर्ता सफलतापूर्वक पंजीकृत हुआ।",
+    "loginSuccess": "लॉगिन सफल रहा।",
+    "unauthorized": "अनधिकृत पहुँच।"
+  },
+  "book": {
+    "borrowed_successfully": "किताब सफलतापूर्वक उधार ली गई।",
+    "return_successful": "किताब सफलतापूर्वक लौटाई गई।",
+    "not_found": "किताब नहीं मिली।",
+    "already_borrowed": "यह किताब पहले से उधार ली गई है।",
+    "not_borrowed": "यह किताब वर्तमान में उधार नहीं ली गई है।"
   }
 }
